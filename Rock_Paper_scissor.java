@@ -6,7 +6,7 @@ public class Rock_Paper_scissor {
     public static void main(String[] args) {
 
         System.out.println("Rock Paper Scissor Game...");
-        System.out.println("-----------------");
+        System.out.println("_________________");
         System.out.println("Enter 1 for Rock \uD83E\uDEA8");
         System.out.println("Enter 2 for Paper \uD83E\uDDFB");
         System.out.println("Enter 3 for Scissor ✂");
